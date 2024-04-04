@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#time-dispaly{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+button{
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+/* #start-butt{
+    margin: ;
+    padding: ;
+    font-size: ;
+    cursor: ;
+}
+
+#reset-butt{
+    margin: ;
+    padding: ;
+    font-size: ;
+    cursor: ;
+} */
